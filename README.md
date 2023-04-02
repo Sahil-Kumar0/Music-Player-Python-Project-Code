@@ -1,5 +1,3 @@
-# project
-
 #Python Music Player Project
 
 #Install Python (URL- https://www.python.org/downloads/)
